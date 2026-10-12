@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Arsyila’s Pebble Lane",
+      "hasCanvas": false,
+      "bodyTextLen": 495,
+      "bodyTextHash": "3c386651d56cf2ee612e8e8431b05c878e59632e12404ef24e9a4aca21e58d7f",
+      "bodyTextPrefix": "Arsyila’s Pebble Lane 0 bintang Bahasa Indonesia English Delapan",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Arsyila’s Pebble Lane",
+      "hasCanvas": false,
+      "bodyTextLen": 495,
+      "bodyTextHash": "3c386651d56cf2ee612e8e8431b05c878e59632e12404ef24e9a4aca21e58d7f",
+      "bodyTextPrefix": "Arsyila’s Pebble Lane 0 bintang Bahasa Indonesia English Delapan",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
